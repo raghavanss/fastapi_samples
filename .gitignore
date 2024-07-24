@@ -1,0 +1,6 @@
+*.env
+app/__pycache__/*
+*app.log*
+*__pycache__**
+
+github.com:raghavanss/fastapi_samples.git
